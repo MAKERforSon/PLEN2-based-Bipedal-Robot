@@ -12,3 +12,5 @@ PLEN2-Projectは公式が販売終了しているので基板を購入できま�
 https://github.com/plenprojectcompany/plen-HeadBoard
 ## 胸部基板
 https://github.com/plenprojectcompany/plen-ControlBoard?utm_source=chatgpt.com
+## SCL Viewer
+https://www.altium.com/viewer/?utm_source=chatgpt.com
