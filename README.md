@@ -10,5 +10,5 @@ https://plen.jp/playground/wiki/ja/specifications/index.html
   
   
 ### JROBOT Github
-中国有志版　9gサーボパーツが設計されている
+中国有志版　9gサーボパーツが設計されている  
 https://github.com/liqin123/jrobot
