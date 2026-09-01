@@ -1,8 +1,8 @@
 # PLEN2-based-Bipedal-Robot
 PLEN2をベースにした安価なサーボを用いた2足歩行ロボット
 
-## リファレンス
-### PLEN2 Github
+# リファレンス
+## PLEN2 Github
 https://github.com/plenprojectcompany/PLEN2
 
 ### PLEN2 3CAD parts assembly
