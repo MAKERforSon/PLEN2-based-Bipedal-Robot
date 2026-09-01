@@ -5,7 +5,7 @@ PLEN2-Projectは公式が販売終了しているので基板を購入できま�
 
 ## 基板構成
 <img width="1293" height="497" alt="image" src="https://github.com/user-attachments/assets/2cdacd9e-8b7c-451f-893d-f5e740013b1e" />
-## 回路図
+## 回路図  
 [PLEN2回路図.pdf]  
 (https://github.com/user-attachments/files/31713528/PLEN2.pdf)
 
