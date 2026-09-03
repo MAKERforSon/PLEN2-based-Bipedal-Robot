@@ -5,5 +5,6 @@
 【ES08MD II】と【MG90S】はほぼ同サイズ。同トルク。異なるのは位置再現性。
 【ES08MD II】はデジタル制御。【MG90S】はアナログ制御の違いが影響する。
 <img width="885" height="742" alt="image" src="https://github.com/user-attachments/assets/cf1b03f8-e46f-4e00-915c-e88a7159a89f" />
+
 ##【結論】
 ES08MD IIのメリットは、デジタルサーボで、1µsピッチの高分解能制御をうたっていること。二足歩行では、こういう細かい位置制御は魅力的。ただし価格が高い。よって精度が必要な脚部のみ【ES08MD II】を採用し残りは安価な【MG90S】を採用。
