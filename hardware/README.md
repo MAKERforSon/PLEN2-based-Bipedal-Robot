@@ -8,6 +8,10 @@ PLEN2-Projectは公式が販売終了しているので基板を購入できま�
 ## 回路図  
 (https://github.com/user-attachments/files/31713528/PLEN2.pdf)
 
+## マルチプレクサ 3個
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/98b432e5-3d72-4072-a9fb-7d61e9f9a3e6" />
+
+
 
 # リファレンス
 ## 頭部基板
