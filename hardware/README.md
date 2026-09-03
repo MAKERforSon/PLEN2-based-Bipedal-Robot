@@ -25,4 +25,9 @@ https://github.com/plenprojectcompany/plen-HeadBoard
 ## 胸部基板
 https://github.com/plenprojectcompany/plen-ControlBoard?utm_source=chatgpt.com
 ## SCL Viewer
-https://www.altium.com/viewer/?utm_source=chatgpt.com
+https://www.altium.com/viewer/?utm_source=chatgpt.com  
+## 従来基板  
+<img width="1127" height="1632" alt="image" src="https://github.com/user-attachments/assets/d28f6316-4178-41bc-9b06-effb7290ab7b" />
+<img width="1125" height="1632" alt="image" src="https://github.com/user-attachments/assets/a0e2abba-4033-4238-aa57-f0bd298f54bb" />
+
+
