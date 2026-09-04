@@ -2,12 +2,17 @@
 PLEN2-Projectは公式が販売終了しているので基板を購入できません。  
 自作で基板の作製が必要です。KiCAD+PCBwayでPCBを作製する方法はありますが  
 私はディスクリートでトライします。  
-## 構成検討の結果
+## 構成検討
 不要な物を削り本家に比べてシュリンク可能。
 システム構成はマイコン(ESP32)とマルチプレクサ(4051)またはPCA9685、サーボモーター×6個（下半身のみ）、LED×2個にシュリンク可能。smallスタート。  
 PLEN2(本家)はジャイロ(MPU-6050)がついているがフィードバック制御をしていないので意味がない。不要。
 BLEはESP32にBluetoothモジュールが内臓されているため不要。  
 本家アプリがあればできたこともEOLでアプリストアから削除されているため不要。
+
+## 頭部基板
+LEDx2、BLE(Bluetooth)、IMU5060(ジャイロ)、MAX3486(RS-485通信)からLEDx2のみへ変更。
+### LED spec
+Vf：3.5V Green
 
 ## 基板構成
 <img width="1293" height="497" alt="image" src="https://github.com/user-attachments/assets/2cdacd9e-8b7c-451f-893d-f5e740013b1e" />
