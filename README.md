@@ -4,6 +4,7 @@ PLEN2をベースにした安価なサーボを用いた2足歩行ロボット�
 
 # Reference
 ## PLEN2 Github
+PLEN2の公式Github　STLファイルはありますがネイティブCADデータはありません。
 https://github.com/plenprojectcompany/PLEN2
 
 ### PLEN2 3CAD parts assembly
