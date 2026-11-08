@@ -12,7 +12,7 @@ https://plen.jp/playground/wiki/ja/specifications/index.html
 ### 組み立て方
 公式Wikiはわかりづらい。Youtubeを推奨。  
 https://youtu.be/SNbXZ_KihRA?si=1hMv34FlTXWMUPiC  
-公式Wiki
+公式Wiki  
 https://plen.jp/playground/wiki/tutorials/plen2/head?utm_source=chatgpt.com
   
 ### JROBOT Github
