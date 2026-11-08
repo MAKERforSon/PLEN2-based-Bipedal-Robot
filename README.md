@@ -2,7 +2,7 @@
 PLEN2をベースにした安価なサーボを用いた2足歩行ロボットの作製が目的です。  
 純正電子部品（基板、モータ、エレキ部品全て）は終売なので、入手できる部品で代替するプロジェクトです。
 
-# リファレンス
+# Reference
 ## PLEN2 Github
 https://github.com/plenprojectcompany/PLEN2
 
